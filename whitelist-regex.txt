@@ -1,0 +1,7 @@
+# Regex whitelist filters provided by qfettes
+# https://github.com/qfettes
+
+# Regular Expressions:
+
+# Fixes hulu video start issue
+ads-[a-za-z0-9]*-darwin.hulustream.com
